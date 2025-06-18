@@ -1,0 +1,1490 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 08.07.2018 10:01:32
+
+newmtl A_freezer01_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka A-freezer01_VB.tga
+	map_Kd A-freezer01_VB.tga
+
+newmtl FSU5_01
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka FSU5-01DiffuseMap.jpg
+	map_Kd FSU5-01DiffuseMap.jpg
+
+newmtl A_freezer02_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka A-freezer02_VB.tga
+	map_Kd A-freezer02_VB.tga
+
+newmtl Material__26731
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 2-stack-wp2DiffuseMap.jpg
+	map_Kd 2-stack-wp2DiffuseMap.jpg
+
+newmtl Material__272
+	Ns 10.0000
+	Ni 1.5000
+	d 0.0500
+	Tr 0.9500
+	Tf 0.0500 0.0500 0.0500 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka white.jpg
+	map_Kd white.jpg
+
+newmtl Material__180
+	Ns 10.0000
+	Ni 1.5000
+	d 0.1000
+	Tr 0.9000
+	Tf 0.1000 0.1000 0.1000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka white.jpg
+	map_Kd white.jpg
+
+newmtl Material__181
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka darkgrey.jpg
+	map_Kd darkgrey.jpg
+
+newmtl 2_stack_wp1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 2-stack-wp1DiffuseMap.jpg
+	map_Kd 2-stack-wp1DiffuseMap.jpg
+
+newmtl B_Stack022
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka B-Stack02DiffuseMap.jpg
+	map_Kd B-Stack02DiffuseMap.jpg
+
+newmtl B_Stack06_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka B-Stack06_VB.tga
+	map_Kd B-Stack06_VB.tga
+
+newmtl B_Stack07_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka B-Stack07_VB.tga
+	map_Kd B-Stack07_VB.tga
+
+newmtl B_Stack08_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka B-Stack08_VB.tga
+	map_Kd B-Stack08_VB.tga
+
+newmtl Material__25495
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka B-product01DiffuseMap.jpg
+	map_Kd B-product01DiffuseMap.jpg
+
+newmtl 2_wp_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 2-wp-2DiffuseMap.png
+	map_Kd 2-wp-2DiffuseMap.png
+	map_d 2-wp-2DiffuseMap.png
+
+newmtl chair
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-Bake-01DiffuseMap.jpg
+	map_Kd 711-Stacks-Bake-01DiffuseMap.jpg
+
+newmtl COcola
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0863 0.0863 0.0863
+	Kd 0.0863 0.0863 0.0863
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0863 0.0863 0.0863
+
+newmtl Cocola_alphaww
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Stacks-Water-02-004.png
+	map_Kd Stacks-Water-02-004.png
+	map_d Stacks-Water-02-004.png
+
+newmtl 711_Stacks_Bake_12_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-Bake-12_VB.tga
+	map_Kd 711-Stacks-Bake-12_VB.tga
+
+newmtl Cocola_alphawwre
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Cocola3-3.png
+	map_Kd Cocola3-3.png
+	map_d Cocola3-3.png
+
+newmtl 711_Stacks_Bake_13_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-Bake-13_VB.tga
+	map_Kd 711-Stacks-Bake-13_VB.tga
+
+newmtl 711_Stacks_Bake_14_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-Bake-14_VB.tga
+	map_Kd 711-Stacks-Bake-14_VB.tga
+
+newmtl 711_Stacks_Bake_15_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-Bake-15_VB.tga
+	map_Kd 711-Stacks-Bake-15_VB.tga
+
+newmtl 711_Stacks_Bake_16_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-Bake-16_VB.tga
+	map_Kd 711-Stacks-Bake-16_VB.tga
+
+newmtl Cocola_alphawwress
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Stacks-Water-02-0055.png
+	map_Kd Stacks-Water-02-0055.png
+	map_d Stacks-Water-02-0055.png
+
+newmtl 711_Stacks_ICE
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-ICEDiffuseMap.jpg
+	map_Kd 711-Stacks-ICEDiffuseMap.jpg
+
+newmtl FZ_t_07
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka Stacks-FZ-11.jpg
+	map_Kd Stacks-FZ-11.jpg
+
+newmtl wire_000000000
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.3500 0.3500 0.3500
+
+newmtl FZ_t_07ss
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka Stacks-FZ-12.jpg
+	map_Kd Stacks-FZ-12.jpg
+
+newmtl FZ_t_04sglass
+	Ns 10.0000
+	Ni 1.5000
+	d 0.0800
+	Tr 0.9200
+	Tf 0.0800 0.0800 0.0800 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka Glass-Blue.jpg
+	map_Kd Glass-Blue.jpg
+
+newmtl 711_Stacks_fastfood
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-fastfoodDiffuseMap.jpg
+	map_Kd 711-Stacks-fastfoodDiffuseMap.jpg
+
+newmtl Stacks_Chahier_03_006
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Stacks-Cashier-02-016.png
+	map_Kd Stacks-Cashier-02-016.png
+	map_d Stacks-Cashier-02-016.png
+
+newmtl Material__26825
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-cashier2DiffuseMap.jpg
+	map_Kd 711-Stacks-cashier2DiffuseMap.jpg
+
+newmtl 711_Stacks_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-2DiffuseMap.jpg
+	map_Kd 711-Stacks-2DiffuseMap.jpg
+
+newmtl Stacks_A3_001
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Stacks-Cashier-A3-001.jpg
+	map_Kd Stacks-Cashier-A3-001.jpg
+
+newmtl Stacks_A5_003vv
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2824 0.2824 0.2824
+	Kd 0.2824 0.2824 0.2824
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.2824 0.2824 0.2824
+
+newmtl 711_Stacks_3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-3DiffuseMap.jpg
+	map_Kd 711-Stacks-3DiffuseMap.jpg
+
+newmtl Material__25885
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-cashierDiffuseMap.jpg
+	map_Kd 711-Stacks-cashierDiffuseMap.jpg
+
+newmtl 711_Stacks_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-1DiffuseMap.jpg
+	map_Kd 711-Stacks-1DiffuseMap.jpg
+
+newmtl Cashier_glass
+	Ns 10.0000
+	Ni 1.5000
+	d 0.1000
+	Tr 0.9000
+	Tf 0.1000 0.1000 0.1000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Glass-Blue.jpg
+	map_Kd Glass-Blue.jpg
+
+newmtl Cashier_glasssss
+	Ns 10.0000
+	Ni 1.5000
+	d 0.7000
+	Tr 0.3000
+	Tf 0.7000 0.7000 0.7000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Glass-Blue-2.jpg
+	map_Kd Glass-Blue-2.jpg
+
+newmtl 722_Stacks_cashier_03
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 722-Stacks-cashier-03DiffuseMap.png
+	map_Kd 722-Stacks-cashier-03DiffuseMap.png
+	map_d 722-Stacks-cashier-03DiffuseMap.png
+
+newmtl Floor_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka Floor-1DiffuseMap.jpg
+	map_Kd Floor-1DiffuseMap.jpg
+
+newmtl Wall_03
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka Wall-03DiffuseMap.jpg
+	map_Kd Wall-03DiffuseMap.jpg
+
+newmtl Material__3563
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka Arch-board01.jpg
+	map_Kd Arch-board01.jpg
+
+newmtl 711_wps_007456
+	Ns 10.0000
+	Ni 1.5000
+	d 0.2000
+	Tr 0.8000
+	Tf 0.2000 0.2000 0.2000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Glass-Blue.jpg
+	map_Kd Glass-Blue.jpg
+
+newmtl 711_wps_007456ccv
+	Ns 10.0000
+	Ni 1.5000
+	d 0.8000
+	Tr 0.2000
+	Tf 0.8000 0.8000 0.8000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Glass-Blue-2.jpg
+	map_Kd Glass-Blue-2.jpg
+
+newmtl 711_D_GE
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-D-GEDiffuseMap.jpg
+	map_Kd 711-D-GEDiffuseMap.jpg
+
+newmtl D_wp_002oo
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka 711-wps-009.png
+	map_Kd 711-wps-009.png
+	map_d 711-wps-009.png
+
+newmtl Material__19522eert
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-wps-013.jpg
+	map_Kd 711-wps-013.jpg
+
+newmtl Material__19522eert3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-wps-015.jpg
+	map_Kd 711-wps-015.jpg
+
+newmtl Material__19522eert3f
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-wps-014.jpg
+	map_Kd 711-wps-014.jpg
+
+newmtl 2_wp_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 2-wp-1DiffuseMap.png
+	map_Kd 2-wp-1DiffuseMap.png
+	map_d 2-wp-1DiffuseMap.png
+
+newmtl Material__354
+	Ns 10.0000
+	Ni 1.5000
+	d 0.1000
+	Tr 0.9000
+	Tf 0.1000 0.1000 0.1000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka white.jpg
+	map_Kd white.jpg
+
+newmtl Material__355
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka B-bakery-01-glass-01.jpg
+	map_Kd B-bakery-01-glass-01.jpg
+
+newmtl Material__368
+	Ns 10.0000
+	Ni 1.5000
+	d 0.1000
+	Tr 0.9000
+	Tf 0.1000 0.1000 0.1000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka white.jpg
+	map_Kd white.jpg
+
+newmtl Material__370
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka B-bakery-darkglass.png
+	map_Kd B-bakery-darkglass.png
+
+newmtl Material__404
+	Ns 10.0000
+	Ni 1.5000
+	d 0.7000
+	Tr 0.3000
+	Tf 0.7000 0.7000 0.7000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka refrigerator-darkgreen.jpg
+	map_Kd refrigerator-darkgreen.jpg
+
+newmtl dangao
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka dangaoDiffuseMap.jpg
+	map_Kd dangaoDiffuseMap.jpg
+	map_d dangaoDiffuseMap.jpg
+
+newmtl COcolasc
+	Ns 10.0000
+	Ni 1.5000
+	d 0.3000
+	Tr 0.7000
+	Tf 0.3000 0.3000 0.3000 
+	illum 2
+	Ka 0.0863 0.0863 0.0863
+	Kd 0.0863 0.0863 0.0863
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0863 0.0863 0.0863
+	map_Ka Glass-White.jpg
+	map_Kd Glass-White.jpg
+
+newmtl 711_Stacks_Bake_05_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-Bake-05_VB.tga
+	map_Kd 711-Stacks-Bake-05_VB.tga
+
+newmtl Cocola_alpha
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Cocola3.png
+	map_Kd Cocola3.png
+	map_d Cocola3.png
+
+newmtl BZ_x01
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Bz-x1.png
+	map_Kd Bz-x1.png
+	map_d Bz-x1.png
+
+newmtl Stacks_bz_x1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Stacks-T-BZ-02.jpg
+	map_Kd Stacks-T-BZ-02.jpg
+
+newmtl Material__19523
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka wooden-floor01.jpg
+	map_Kd wooden-floor01.jpg
+
+newmtl Floor_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka Floor-2DiffuseMap.jpg
+	map_Kd Floor-2DiffuseMap.jpg
+
+newmtl Plane051_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka Exit01.jpg
+	map_Kd Exit01.jpg
+
+newmtl 2_stack_wp3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 2-stack-wp3DiffuseMap.jpg
+	map_Kd 2-stack-wp3DiffuseMap.jpg
+
+newmtl Material__19526
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka shop-01.png
+	map_Kd shop-01.png
+
+newmtl Material__19527
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka shop-02.png
+	map_Kd shop-02.png
+
+newmtl Material__19539
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka shop-03.jpg
+	map_Kd shop-03.jpg
+
+newmtl Material__691
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka floor-brown.png
+	map_Kd floor-brown.png
+
+newmtl Material__19540
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka wooden-ceiling01.jpg
+	map_Kd wooden-ceiling01.jpg
+
+newmtl Material__19541
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka enviornment001.jpg
+	map_Kd enviornment001.jpg
+
+newmtl Material__19542
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka enviornment002.jpg
+	map_Kd enviornment002.jpg
+
+newmtl Material__19543
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka enviornment003.jpg
+	map_Kd enviornment003.jpg
+
+newmtl Material__19544
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka wooden-ceiling02.jpg
+	map_Kd wooden-ceiling02.jpg
+
+newmtl Material__19546
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Window03-T-01.png
+	map_Kd Window03-T-01.png
+	map_d Window03-T-01.png
+
+newmtl Material__19547
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka door-signage01.jpg
+	map_Kd door-signage01.jpg
+
+newmtl Material__19551
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka light01.jpg
+	map_Kd light01.jpg
+
+newmtl Material__24470
+	Ns 10.0000
+	Ni 1.5000
+	d 0.8000
+	Tr 0.2000
+	Tf 0.8000 0.8000 0.8000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka Glass-darkgreen.jpg
+	map_Kd Glass-darkgreen.jpg
+
+newmtl B_stack01_01_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka B-stack01-01_VB.tga
+	map_Kd B-stack01-01_VB.tga
+
+newmtl B_stack01_02_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka B-stack01-02_VB.tga
+	map_Kd B-stack01-02_VB.tga
+
+newmtl B_stack01_03_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka B-stack01-03_VB.tga
+	map_Kd B-stack01-03_VB.tga
+
+newmtl Material__24463
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka door-signage01.jpg
+	map_Kd door-signage01.jpg
+
+newmtl Material__24464
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka sign-002.jpg
+	map_Kd sign-002.jpg
+
+newmtl Material__24465
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka Window-sign01.png
+	map_Kd Window-sign01.png
+	map_d Window-sign01.png
+
+newmtl Material__24466
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka Pull01.jpg
+	map_Kd Pull01.jpg
+
+newmtl Ceiling_01
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka Ceiling-01DiffuseMap.jpg
+	map_Kd Ceiling-01DiffuseMap.jpg
+
+newmtl Arch_00020_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka Arch-00020_VB.tga
+	map_Kd Arch-00020_VB.tga
+
+newmtl board_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka board-1DiffuseMap.jpg
+	map_Kd board-1DiffuseMap.jpg
+
+newmtl Material__24528
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka sign-01-r.jpg
+	map_Kd sign-01-r.jpg
+
+newmtl Material__24529
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka sign-01.jpg
+	map_Kd sign-01.jpg
+
+newmtl Material__24530
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka sign-01-b.jpg
+	map_Kd sign-01-b.jpg
+
+newmtl Material__24543
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka sign-01.jpg
+	map_Kd sign-01.jpg
+
+newmtl board_01_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka board-01_VB.tga
+	map_Kd board-01_VB.tga
+
+newmtl Window_01_02_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka Window-01-02_VB.tga
+	map_Kd Window-01-02_VB.tga
+
+newmtl wire_225198087
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8824 0.7765 0.3412
+	Kd 0.8824 0.7765 0.3412
+	Ks 0.3500 0.3500 0.3500
+
+newmtl 711_Stacks_Bake_17_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-Bake-17_VB.tga
+	map_Kd 711-Stacks-Bake-17_VB.tga
+
+newmtl aircondition_01
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka aircondition-01DiffuseMap.jpg
+	map_Kd aircondition-01DiffuseMap.jpg
+
+newmtl Cocola_alphassrt
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Stacks-unbrella-05.png
+	map_Kd Stacks-unbrella-05.png
+	map_d Stacks-unbrella-05.png
+
+newmtl Cocola_alphassty
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Stacks-unbrella-07.png
+	map_Kd Stacks-unbrella-07.png
+	map_d Stacks-unbrella-07.png
+
+newmtl 722_Stacks_Unbake_302_VB
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka Stacks-unbrella-04.png
+	map_Kd Stacks-unbrella-04.png
+	map_d Stacks-unbrella-04.png
+
+newmtl 711_Stacks_Bake_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka 711-Stacks-Bake-1DiffuseMap.jpg
+	map_Kd 711-Stacks-Bake-1DiffuseMap.jpg
+
+newmtl Stacks_Chshier_06_001
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9608 0.9608 0.9608
+	Kd 0.9608 0.9608 0.9608
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.9608 0.9608 0.9608
+
+newmtl Stacks_Chshier_06_001qx
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Stacks-Cashier-06-002.png
+	map_Kd Stacks-Cashier-06-002.png
+	map_d Stacks-Cashier-06-002.png
+
+newmtl Stacks_Chshier_06_001q
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka Stacks-Cashier-06-001.png
+	map_Kd Stacks-Cashier-06-001.png
+	map_d Stacks-Cashier-06-001.png
