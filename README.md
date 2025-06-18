@@ -20,7 +20,7 @@ TTS(Text-to-Speech)와 STT(Speech-to-Text) 기술을 통해 사용자가 음성�
 <br>
 
 ### 2️⃣ 영어 문법 교정 및 표현 추천 AI
-rompt Engineering을 통해 학습된 AI 언어 모델은 사용자의 영어 문장에 대한 문법 오류를 실시간으로 교정하며,  <br>
+Prompt Engineering을 통해 학습된 AI 언어 모델은 사용자의 영어 문장에 대한 문법 오류를 실시간으로 교정하며,  <br>
 상황에 알맞은 표현 추천을 통해 보다 정확한 문장을 구사할 수 있도록 돕는다.
 <br>
 
