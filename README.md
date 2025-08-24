@@ -1,6 +1,6 @@
 # 🗣️ VR 영어 교육 시뮬레이션
 > ### PBL I 프로젝트 (3인)
-> ### 주제 : VR을 이용한 영어 교육 시뮬레이션 프로그램
+> ### 주제 : VR 영어 교육 시뮬레이션
 > ### 역할 : 클라이언트 - 서버 구조 설계, STT 및 TTS API 연동, 데이터 흐름 처리
 <img src="https://github.com/user-attachments/assets/b753d2d6-f845-42ce-b91b-148d2b711d85" width="700"/>
 <br><br> 
