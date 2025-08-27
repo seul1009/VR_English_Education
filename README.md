@@ -32,7 +32,8 @@ Prompt Engineering을 통해 학습된 AI 언어 모델은 사용자의 영어 �
 <br><br> 
 
 ## 아키텍처
-<img src="https://github.com/user-attachments/assets/eb2f8c66-bd1d-471d-8bbd-a3b2ffd8097d" width="700"/>
+<img width="700"  alt="VR" src="https://github.com/user-attachments/assets/6b4fe291-65d8-454f-b996-cfee0209988b" />
+
 <br><br> 
 
 
