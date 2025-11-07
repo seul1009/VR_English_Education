@@ -9,7 +9,8 @@
 - 개발 언어 : C#, Python <br> 
 - IDE : Unity, Visual Studio Code (Flask Server)
 - DB : MySQL
-- 통신 방식: WebSocket
+- 통신 방식: WebSocket'
+- 인프라: Google Cloud Platform (GCP)
 <br><br>
 
 ##  주요 기능
