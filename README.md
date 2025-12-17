@@ -32,7 +32,7 @@ Prompt Engineering을 통해 학습된 AI 언어 모델은 사용자의 영어 �
 <br><br> 
 
 ## 아키텍처
-<img width="700"  alt="VR" src="https://github.com/user-attachments/assets/6b4fe291-65d8-454f-b996-cfee0209988b" />
+<img width="1143" height="557" alt="image" src="https://github.com/user-attachments/assets/4b394cae-49ed-48c7-b9c1-74fb7221966e" />
 
 <br><br> 
 
@@ -48,7 +48,7 @@ Prompt Engineering을 통해 학습된 AI 언어 모델은 사용자의 영어 �
 ## 트러블 슈팅
 문제: TTS 결과를 처리하는 과정에서 평균 9초의 응답 지연 발생
 
-원인: 텍스트 데이터를 DB에 저장한 뒤 클라이언트가 다시 조회하는 구조에서 병목 현상 발생
+원인: Long Polling 구조로 인한 응답 지연
 
 해결: WebSocket 기반의 실시간 통신 구조로 변경하여 DB I/O 제거
 
