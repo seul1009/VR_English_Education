@@ -6,10 +6,10 @@
 
 ## 💻 개발 환경
 - 클라이언트 개발 플랫폼 : Unity <br> 
-- 개발 언어 : C#, Python <br> 
-- IDE : Unity, Visual Studio Code (Flask Server)
+- 개발 언어 : C#, Node.js <br> 
+- IDE : Unity, Visual Studio Code 
 - DB : MySQL
-- 통신 방식: WebSocket'
+- 통신 방식: WebSocket
 - 인프라: Google Cloud Platform (GCP)
 <br><br>
 
